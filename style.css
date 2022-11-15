@@ -107,7 +107,7 @@ span {
   background: linear-gradient(45deg, #cc0000, #0b5394);
   opacity: 0.2;
   z-index: -50;
-  /* mix-blend-mode: overlay; */
+  mix-blend-mode: overlay;
 }
 header {
   display: flex;
